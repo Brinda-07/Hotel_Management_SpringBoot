@@ -1,40 +1,40 @@
 🏨 Hotel Management System – Spring Boot
 
-A Spring Boot–based REST API for managing hotel information
+-A Spring Boot–based REST API for managing hotel information
 
-Implements complete CRUD operations
+-Implements complete CRUD operations
 
-Follows a layered architecture (Controller → Service → Repository)
+-Follows a layered architecture (Controller → Service → Repository)
 
-Uses DTOs to separate API models from database entities
+-Uses DTOs to separate API models from database entities
 
-Integrated with MySQL using Spring Data JPA
+-Integrated with MySQL using Spring Data JPA
 
 🚀 Features
 
-Create a new hotel record
+-Create a new hotel record
 
-Fetch all hotels
+-Fetch all hotels
 
-Fetch hotel details by ID
+-Fetch hotel details by ID
 
-Update existing hotel details
+-Update existing hotel details
 
-Delete a hotel by ID
+-Delete a hotel by ID
 
-DTO-based request/response handling
+-DTO-based request/response handling
 
-Auto-generated primary keys using JPA
+-Auto-generated primary keys using JPA
 
-RESTful API endpoints
+-RESTful API endpoints
 
 🛠️ Tech Stack
 
-Java
+-Java
 
-Spring Boot
+-Spring Boot
 
-Spring Data JPA
+-Spring Data JPA
 
 MySQL
 
